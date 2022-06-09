@@ -1,9 +1,8 @@
 # Real Business Cycles
 
-## Computational Economics  2021 (ECO 309)
+## Computational Economics  2022 (ECO 309)
 
 ----
-
 
 - Real Business Cycle
   - Like the neo-classical growth model
@@ -12,7 +11,6 @@
   - With a decentralized interpretation
 - Explains *short term* fluctuations
   - without demand shocks / money
-
 
 ---
 
